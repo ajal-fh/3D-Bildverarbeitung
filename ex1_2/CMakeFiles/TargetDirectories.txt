@@ -1,0 +1,3 @@
+/home/student/3dbildlabor/ex1_2/CMakeFiles/edit_cache.dir
+/home/student/3dbildlabor/ex1_2/CMakeFiles/rebuild_cache.dir
+/home/student/3dbildlabor/ex1_2/CMakeFiles/filters.dir

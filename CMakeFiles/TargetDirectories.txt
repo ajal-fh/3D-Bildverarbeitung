@@ -1,0 +1,3 @@
+/home/student/3dbildlabor/CMakeFiles/rebuild_cache.dir
+/home/student/3dbildlabor/CMakeFiles/edit_cache.dir
+/home/student/3dbildlabor/CMakeFiles/aufgabe1.dir

@@ -1,0 +1,3 @@
+/home/student/3dbildlabor/camera2/CMakeFiles/edit_cache.dir
+/home/student/3dbildlabor/camera2/CMakeFiles/rebuild_cache.dir
+/home/student/3dbildlabor/camera2/CMakeFiles/camera2_calib.dir
